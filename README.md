@@ -1,18 +1,8 @@
-# LeetCode Engineering Notes
+# LeetCode Progress
 
-Systematic problem solving repository.
-
-## Structure
-- Problem-based organization
-- Multiple optimized versions
-- Multi-language implementations
-- Complexity documentation
-- Pattern tagging
-
-## Languages Used
-- Python
-- TypeScript
-- Java
-
-## Goal
-Master patterns, not just problems.
+| Difficulty | Count |
+|------------|--------|
+| Easy       | 34 |
+| Medium     | 32 |
+| Hard       | 4 |
+| Total      | 70 |

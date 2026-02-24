@@ -1,0 +1,10 @@
+# check-if-a-string-contains-all-binary-codes-of-size-k
+
+## Difficulty: 
+Medium
+
+## Language:
+python3
+
+## Notes:
+- Add any notes or explanations about your solution here.
